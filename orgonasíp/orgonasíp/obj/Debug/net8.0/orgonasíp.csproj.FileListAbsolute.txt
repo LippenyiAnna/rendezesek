@@ -1,0 +1,14 @@
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\bin\Debug\net8.0\orgonasíp.exe
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\bin\Debug\net8.0\orgonasíp.deps.json
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\bin\Debug\net8.0\orgonasíp.runtimeconfig.json
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\bin\Debug\net8.0\orgonasíp.dll
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\bin\Debug\net8.0\orgonasíp.pdb
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.AssemblyInfoInputs.cache
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.AssemblyInfo.cs
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.csproj.CoreCompileInputs.cache
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.dll
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\refint\orgonasíp.dll
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.pdb
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\orgonasíp.genruntimeconfig.cache
+C:\Users\LippenyiA\source\repos\orgonasíp\orgonasíp\obj\Debug\net8.0\ref\orgonasíp.dll
