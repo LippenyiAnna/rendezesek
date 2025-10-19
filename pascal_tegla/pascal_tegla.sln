@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal_tegla", "pascal_tegla\pascal_tegla.csproj", "{AFE1752B-8701-48BE-9F26-486F6D6FCE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE1752B-8701-48BE-9F26-486F6D6FCE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE1752B-8701-48BE-9F26-486F6D6FCE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE1752B-8701-48BE-9F26-486F6D6FCE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE1752B-8701-48BE-9F26-486F6D6FCE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E426218-39B4-4185-9194-DC353A993911}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\bin\Debug\net8.0\pascal_tegla.exe
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\bin\Debug\net8.0\pascal_tegla.deps.json
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\bin\Debug\net8.0\pascal_tegla.runtimeconfig.json
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\bin\Debug\net8.0\pascal_tegla.dll
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\bin\Debug\net8.0\pascal_tegla.pdb
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.AssemblyInfoInputs.cache
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.AssemblyInfo.cs
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.csproj.CoreCompileInputs.cache
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.dll
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\refint\pascal_tegla.dll
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.pdb
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\pascal_tegla.genruntimeconfig.cache
+C:\Users\LippenyiA\source\repos\pascal_tegla\pascal_tegla\obj\Debug\net8.0\ref\pascal_tegla.dll
